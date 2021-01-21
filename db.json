@@ -1,6 +1,6 @@
 {
   "regions": [
-    { "id": 1, "name": "NCAL" },
+    { "id": 1, "name": "NCAL" , "eligibility": ["one","two","three"]},
     { "id": 2, "name": "SCAL" },
     { "id": 3, "name": "GA" },
     { "id": 4, "name": "NW" },
