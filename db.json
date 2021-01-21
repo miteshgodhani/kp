@@ -31,8 +31,8 @@
 },
   "regions":[
     {
-      id:1,
-      name: "NCAL"
+      "id":1,
+      "name": "NCAL"
     }
   ]
 }
