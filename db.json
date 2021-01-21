@@ -1,0 +1,23 @@
+{
+  "regions": [
+    { "id": 1, "name": "NCAL" , "eligibility": ["healthcare workers","individuals ages 65 and older and their caregivers","residents and staff of longterm care facilities"]},
+    { "id": 2, "name": "SCAL" , "eligibility": ["Education","Food and agreeculture"]},
+    { "id": 3, "name": "GA" , "eligibility": ["Manufacturing","Corrections Workers"]},
+    { "id": 4, "name": "NW" , "eligibility": ["U.S Postal service workers","Public transit workers"]},
+    { "id": 5, "name": "HI" , "eligibility": ["Grocery store workers","Food Service"]},
+    { "id": 6, "name": "11" , "eligibility": ["Shelter Household","Finance"]},
+    { "id": 7, "name": "22" , "eligibility": ["IT & Communication","Energy", "Media"]}
+  ],
+  "facilities": [
+    { "id": 1, "name": "Pam", "status": "Available" },
+    { "id": 2, "name": "Jim", "status": "Less available" },
+	{ "id": 3, "name": "Stanley", "status": "Not available" },
+	{ "id": 4, "name": "Kevin", "status": "Available" },
+    { "id": 5, "name": "AngelaM", "status": "Less available" },
+	{ "id": 6, "name": "Phylls", "status": "Not available" },
+	{ "id": 7, "name": "Meredith", "status": "Available" },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
