@@ -28,5 +28,11 @@
 ],
 "profile": {
 "name": "typicode"
-}
+},
+  "regions":[
+    {
+      id:1,
+      name: "NCAL"
+    }
+  ]
 }
